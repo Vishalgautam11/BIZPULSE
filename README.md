@@ -80,15 +80,30 @@ Synthetically generated user activity dataset with the following fields:
 - Profit/Loss by Month (Table with conditional formatting)
 - Average CAC by Month (Bar Chart)
 
+<img width="1318" height="728" alt="Page -1" src="https://github.com/user-attachments/assets/d927fc4b-7911-43ef-ad94-8db067a40fb1" />
+
+
+
+
 ### Page 2 — Monthly Performance
 - Monthly User Spend vs Company Spend (Clustered Bar)
 - Profit/Loss by Month (Waterfall Chart)
 - MOM Growth Rate Trend (Line Chart)
 
+<img width="1304" height="730" alt="PAGE - 2" src="https://github.com/user-attachments/assets/c4b10184-0724-4b96-84b8-7e3d708b3060" />
+
+
+
 ### Page 3 — CAC & Acquisition
 - Monthly User Spend vs CAC (Combo Chart — Bar + Line)
 - New Users per Month (Bar Chart)
 - Monthly User Status Trend — Active, Inactive, Lost, New (Multi-line Chart)
+
+
+
+<img width="1310" height="733" alt="Page - 3" src="https://github.com/user-attachments/assets/0a46c5ed-054a-4fb1-9021-6a512ea98d32" />
+
+
 
 ---
 
